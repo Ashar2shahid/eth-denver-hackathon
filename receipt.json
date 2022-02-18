@@ -1,0 +1,17 @@
+{
+  "airnodeWallet": {
+    "airnodeAddress": "0xDB4d9ED032aDC7261b3f6D670E73251a7A716548",
+    "airnodeAddressShort": "db4d9ed",
+    "airnodeXpub": "xpub6CneVR8ERgungaEsu6LwZo31xqVhvdmvr7VuYDLRW3SKqshok3GajDxxjWUxsbsoAsFmsWvjKfZKSczfc6pNpnUADo3NSTxknBf1d1pWmZk"
+  },
+  "deployment": {
+    "airnodeAddressShort": "db4d9ed",
+    "cloudProvider": {
+      "type": "aws",
+      "region": "us-east-1"
+    },
+    "stage": "dev",
+    "nodeVersion": "0.3.0"
+  },
+  "api": {}
+}
